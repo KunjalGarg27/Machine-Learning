@@ -1,4 +1,13 @@
 # Machine-Learning
 
 This repostory contains the codes implemented during the lab classes of Machine learning being taught as a part of course curriculam in the university .
-ML_EDA and Linear_Regression.ipynb contains code for all the steps of Exploratory Data Analysis on a Car Dataset and later on has implementation of Linear Regression Model
+
+
+ML Lab.ipynb contains code for all the steps of Exploratory Data Analysis on a Car Dataset and later on has implementation of 3 different machine learning models performed on the houseprice dataset.
+
+the datasets are available in the same repository .
+
+The machine learning models implemented are as follows-
+1. Linear Regression
+2. Logistic Regression
+3. Decision Tree
